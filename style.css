@@ -1,3 +1,9 @@
+/* *{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    } */
+
 .dinner1{
     color:purple
 }
@@ -14,4 +20,78 @@
 
 .addres{
     color:orangered
+}
+
+
+
+
+/* #sweets page css */
+
+.sweets{
+    background-color:rgb(223, 219, 222)
+    
+}
+
+.foter{
+   color:rgb(251, 5, 5)
+   text
+}
+
+.c1boxes{
+    position: absolute;
+    top:500px;
+    left:10px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;
+}
+
+.c2boxes{
+    position: absolute;
+    top:500px;
+    left:400px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;
+}
+
+.c3boxes{
+    margin:0px;
+    padding:0px;
+    position: absolute;
+    top:610px;
+    left:200px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;
+}
+
+.c4boxes{
+    position: absolute;
+    top:710px;
+    left:10px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;
+}
+
+.c5boxes{
+    position: absolute;
+    top:710px;
+    left:400px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;
+}
+
+.footer{
+    position: absolute;
+    top:850px;
+    left:100px;
+    border-color:gold;
+    border-width:2px;
+    border-style:dashed;    
+    border-radius:10px;
+    text-align:center;
+
 }
