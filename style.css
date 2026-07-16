@@ -44,6 +44,7 @@
     border-color:gold;
     border-width:2px;
     border-style:dashed;
+    transform: rotate(45deg);
 }
 
 .c2boxes{
@@ -53,22 +54,25 @@
     border-color:gold;
     border-width:2px;
     border-style:dashed;
+    transform: rotate(45deg);
 }
 
 .c3boxes{
     margin:0px;
     padding:0px;
     position: absolute;
-    top:610px;
-    left:200px;
+    top:550px;
+    left:170px;
     border-color:gold;
     border-width:2px;
     border-style:dashed;
+    transform: rotate(45deg);
 }
 
 .c4boxes{
     position: absolute;
     top:710px;
+    transform: rotate(45deg);
     left:10px;
     border-color:gold;
     border-width:2px;
@@ -82,6 +86,7 @@
     border-color:gold;
     border-width:2px;
     border-style:dashed;
+    transform: rotate(45deg);
 }
 
 .footer{
